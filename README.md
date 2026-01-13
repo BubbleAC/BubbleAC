@@ -1,4 +1,4 @@
-# 👑 BubbleAC  
+# BubbleAC  
 ### Advanced Minecraft Security & Plugin Development  
 
 BubbleAC is an open-source organization dedicated to creating **high-quality Minecraft plugins**, **anti-cheat scanners**, and **security tools** — all completely **free** for the community.
