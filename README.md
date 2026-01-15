@@ -7,67 +7,67 @@ We focus on **performance**, **protection**, and **fair gameplay**.
 
 ---
 
-## 🛠️ What We Build
+## What We Build
 
-- 🧩 **Minecraft Plugins**  
-- 🛡️ **Anti-Cheat Scanners**  
-- 🔍 **Detection Systems**  
-- ⚡ **Performance Tools**  
-- 🔧 **Utility Software**  
+- **Minecraft Plugins**  
+- **Anti-Cheat Scanners**  
+- **Detection Systems**  
+- **Performance Tools**  
+- **Utility Software**  
 
 Everything we release is **free** and **open-source**.
 
 ---
 
-## 🎯 Our Mission
+## Our Mission
 
 Our goal is simple:
 
-- 🚫 Stop cheaters  
-- 🧠 Improve server security  
-- ⚙️ Optimize performance  
-- 🤝 Support the community  
-- 📖 Share open-source knowledge  
+- Stop cheaters  
+- Improve server security  
+- Optimize performance  
+- Support the community  
+- Share open-source knowledge  
 
 ---
 
-## 💻 Technologies
+## Technologies
 
 We mainly work with:
 
-- ☕ Java  
-- 🧱 Spigot / Paper / Bukkit  
-- 🛠️ Git & GitHub  
-- 🔐 Security Systems  
+- Java  
+- Spigot / Paper / Bukkit  
+- Git & GitHub  
+- Security Systems  
 
 ---
 
-## 🤝 Contribute
+## Contribute
 
 Want to help? You're welcome!
 
 You can:
 
-- 🐛 Fix bugs  
-- ✨ Add features  
-- 🚀 Improve performance  
-- 📝 Improve documentation  
+- Fix bugs  
+- Add features  
+- Improve performance  
+- Improve documentation  
 
 Just **fork** a project and open a **pull request**.
 
 ---
 
-## 📜 License
+## License
 
 Almost all of our projects use **open-source licenses**.  
 Check each repository for details.
 
 ---
 
-## 🌐 Contact & Support
+## Contact & Support
 
 Need help or want to collaborate?
 
-- 💬 Discord Server 
-- 🐞 GitHub Issues  
-- 🔁 Pull Requests
+- Discord Server 
+- GitHub Issues  
+- Pull Requests
